@@ -9,6 +9,7 @@ public class Main {
         int i = random.nextInt();
 
         if (i>10){
+            System.out.println(i+10);
             System.out.println("Successfull");
         }
     }
